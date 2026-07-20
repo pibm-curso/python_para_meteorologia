@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Hidden files (optional, safer)
+.*~
+
+
