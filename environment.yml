@@ -1,0 +1,14 @@
+name: binder-geo-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - cartopy
+  - numpy
+  - pandas
+  - matplotlib
+  - openpyxl
+  - jupyterlab
