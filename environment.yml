@@ -8,7 +8,9 @@ dependencies:
   - h5netcdf
   - cartopy
   - numpy
+  - scipy
   - pandas
   - matplotlib
+  - sklearn
   - openpyxl
   - jupyterlab
