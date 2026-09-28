@@ -1,0 +1,9 @@
+Fecha,Hora,Estado,T (°C),ST (°C),HR (%),Viento dirección,Viento velocidad,Presión,Visibilidad
+14/08/2023,0:00,Nublado,12.8,No se calcula,37,Noroeste,9 km/h,1014.8 hPa,10 km
+13/08/2023,21:00,Mayormente nublado,13.8,No se calcula,38,Norte,11 km/h,1015 hPa,10 km
+13/08/2023,18:00,Parcialmente nublado,15.6,No se calcula,26,Norte,7 km/h,1015.6 hPa,10 km
+13/08/2023,15:00,Algo nublado,16.9,No se calcula,24,Norte,16 km/h,1017.7 hPa,10 km
+13/08/2023,12:00,Ligeramente nublado,14.4,No se calcula,27,Norte,7 km/h,1021.7 hPa,10 km
+13/08/2023,9:00,Ligeramente nublado,8.6,7.5,44,Noroeste,7 km/h,1022.9 hPa,10 km
+13/08/2023,6:00,Despejado,3.1,No se calcula,71,Calma,,1022.8 hPa,10 km
+13/08/2023,3:00,Despejado,3.7,No se calcula,72,Calma,,1023.7 hPa,10 km
